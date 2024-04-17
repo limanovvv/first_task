@@ -1,7 +1,17 @@
+/// <summary>
+/// простая программа-поиск слова с наибольшей длиной в массиве строк
+/// </summary>
+
 namespace first_task;
 
 class MaxLengthWord
 {
+    
+    /// <summary>
+    /// метод задает размер массива через консоль
+    /// заполняет его также через консоль
+    /// и выводит самое длинное слово в этом массиве
+    /// </summary>
     public static void Do(){
         Console.WriteLine("Введите размер массива:");
         var size = Int32.Parse(Console.ReadLine());
@@ -18,6 +28,10 @@ class MaxLengthWord
         
     }
     
+    /// <summary>
+    /// метод принимает строковый массив
+    /// возвращает слово с наибольшей длиной
+    /// </summary>
     static string GetMaxLengthWord(string[] words)
     {
         string maxLengthWord = "";
