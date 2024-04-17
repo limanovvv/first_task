@@ -1,0 +1,14 @@
+/Users/valero/RiderProjects/first_task/first_task/bin/Debug/net8.0/first_task
+/Users/valero/RiderProjects/first_task/first_task/bin/Debug/net8.0/first_task.deps.json
+/Users/valero/RiderProjects/first_task/first_task/bin/Debug/net8.0/first_task.runtimeconfig.json
+/Users/valero/RiderProjects/first_task/first_task/bin/Debug/net8.0/first_task.dll
+/Users/valero/RiderProjects/first_task/first_task/bin/Debug/net8.0/first_task.pdb
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.AssemblyInfoInputs.cache
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.AssemblyInfo.cs
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.csproj.CoreCompileInputs.cache
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.dll
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/refint/first_task.dll
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.pdb
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/first_task.genruntimeconfig.cache
+/Users/valero/RiderProjects/first_task/first_task/obj/Debug/net8.0/ref/first_task.dll
